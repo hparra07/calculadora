@@ -1,6 +1,8 @@
-﻿# Calculadora
+﻿# Calculadora :atom:
 
-### Breve demostración del funcionamiento de la app
+### Breve demostración del funcionamiento de la calculadora.
 
-![cover](./video/calculadora.mp4)
+Está desarrollada con HTML, CSS y JavaScript.
+
+![cover](./video/calculadora.gif)
 =======
