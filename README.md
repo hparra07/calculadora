@@ -2,5 +2,5 @@
 
 ### Breve demostración del funcionamiento de la app
 
-![cover](./video/calculadora.mp4)
+![cover](./video/calculadora.gif)
 =======
